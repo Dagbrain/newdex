@@ -1,5 +1,6 @@
 {
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@lifi/widget": "^2.4.3",
     "@testing-library/jest-dom": "^5.16.5",
