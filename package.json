@@ -1,7 +1,8 @@
 {
   "private": true,
-  "homepage": "https://newdex-pi.vercel.app/",
+  "homepage": ".",
   "dependencies": {
+    "@babel/runtime": "^7.20.7",
     "@lifi/widget": "^2.4.3",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
